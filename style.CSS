@@ -1,0 +1,301 @@
+*{
+          padding: 0;
+          margin: 0;
+}
+.icon-1{
+
+      padding-left: 70px;   
+}
+.icon-4{
+  padding-right: 70px;      
+}    
+.navbar{
+          justify-content: center;
+          
+          gap: 42px;
+}
+
+.mangesh-1 {
+  padding-left: 70px;
+}
+
+.mangesh{
+   justify-content: end;
+    gap: 20px;      
+}       
+.contents{
+          background-color: aquamarine;
+          color: black;
+          padding: 10px 0px;
+          margin: 0px;
+}
+.nav-item li {
+          list-style: none;
+
+      } 
+.nav-item li a{
+        text-decoration: none;
+      }
+.nav-item li a:hover{
+        text-decoration: underline;
+      }
+
+      /* slider */
+
+.carousel-item h5{
+  color:  rgb(224,56 , 118);;
+}     
+.carousel-item h3{
+  
+  
+color: #000000;
+
+
+}  
+.carousel-item p{
+  color: black;
+}  
+.btn-1{
+  background-color: rgb(224,56 , 118);
+  color: white;
+  font-size: 20px;
+  font-family: "DejaVu Sans";
+}
+.btn-2{
+  background-color: rgb(190, 217, 190);
+  color: black;
+  font-size: 20px;
+  font-family: "DejaVu Sans";
+
+}
+/* .slider-img1{
+  position: relative;
+}
+.slider-img2{
+  position: relative;
+}
+.slider-img3{
+  position: relative;
+}
+.carousel-item{
+
+} */
+.carousel-caption {
+  width: 26%;
+  position: absolute;
+  top: 50%;
+  left: 12%;
+  transform: translateY(-50%);
+}
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.carousel-caption h3{
+  font-weight: 400;
+font-family: "DejaVu Sans";
+
+}
+.carousel-caption h5{
+font-size: 24px;
+font-weight: 400;
+font-family: "DejaVu Sans";
+}
+.carousel-caption p{
+  font-size: 24px;
+  font-weight: 400;
+  font-family: "DejaVu Sans";
+  }
+
+  .wild-img{
+    width: 100%;
+    height: 100%;
+  }
+  .btn-flower{
+      background-color: white;
+      color: #000000;
+      font-size: 20px;
+      position: absolute;
+      top: 88%;
+      transform: translate(-50%, -50%);
+      left: 14%;
+      font-family: "DejaVu Sans";
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+  
+
+  .dummy{
+    position: relative;
+  }
+
+ .logos{
+   text-align: center;
+ }
+ .logo-1{
+  width: 90px;
+  height: 100px;
+ }
+    
+ .logo-1{
+  width: 90px;
+  height: 100px;
+ }
+ .logo-1{
+  width: 90px;
+  height: 100px;
+ }
+ .logo-1{
+  width: 90px;
+  height: 100px;
+ }
+ .header{
+   font-size: 24px;
+   font-weight: 400;
+   font-family: "DejaVu Sans";
+ }
+ .selling-1{
+   width: 300px;
+   height: 330px;
+ }
+ .header-selling1{
+     color:rgb(207, 207,207);
+ }
+ .header-selling2{
+   font-size: 15px;
+ }
+ .star-rating{
+   width: 70px;
+   height: 16px;
+ }
+ .review{
+   font-size: 14px;
+ }
+ .inner-star{
+   gap: 10px;
+ }
+ /* .client-img{
+   align-items: center;
+ } */
+ .client-img{
+   text-align:center;
+ }
+ .client-header{
+  text-align:center;
+  font-family: "DejaVu Sans";
+ }
+ .client-img img {
+  position: absolute;
+  bottom: 85%;
+  left: 34%;
+ }
+ .rev_cnt {
+  padding: 35px
+}
+.quite-rating{
+  gap: 40px;
+}
+.last-view{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+.btn-last{
+  font-family: "DejaVu Sans";
+  font-size: 20px;
+  background-color:rgb(224,56 , 118);
+  color: white; 
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.top-header{
+  padding-bottom: 80px;
+  padding-top: 25px;
+}
+
+.Awesome{
+  background-image: url("images/Testimonials\ Background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+
+
+.slick-slide img {
+  width: 100%;
+  object-fit: contain;
+}
+
+ /* the slides */
+ .sld .slick-slide {
+  margin: 0 15px;
+}
+
+/* the parent */
+.sld .slick-list {
+  margin: 0 -27px;
+}
+
+ul.main-list {
+  list-style: none;
+}
+.jug {
+  gap: 80px;
+}
+.bpb h3{
+  font-size: 22px;
+  
+}
+.ugf h3{
+  font-size: 14px;
+}
+.header-1{
+  
+  font-family: "DejaVu Sans";
+
+}
+.ugf{
+  text-align: center;
+  font-size: 20px;
+}
+.jug{
+  text-align: center;
+  font-family: "DejaVu Sans";
+  border-bottom: 3px solid black;
+}
+img.ml-img {
+  width: 30px;
+  height: 26px;
+}
+.main-list
+{
+  padding: 0px;
+}
+
+.footer{
+  background-color: aquamarine;
+}
+.ico {
+  width: 30px;
+  height: 30px;
+}
+
+.lion {
+  justify-content: center;
+  /* width: 23px; */
+  padding-top: 20px;
+}
+.last-img {
+  text-align: center;
+}
+.dropdown-btn{
+  display: flex;
+  justify-content: center;
+}
+.us-imag{
+  width: 30px;
+  height: 30px;
+}
